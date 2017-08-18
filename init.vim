@@ -1,5 +1,7 @@
 source $HOME/.vim/.vimrc
 
+set termguicolors
+
 "remap for switching vim panes (from terminal)
 tnoremap <C-h> <C-\><C-n><C-w>h
 tnoremap <C-j> <C-\><C-n><C-w>j
